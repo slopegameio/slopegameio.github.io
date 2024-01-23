@@ -3,6 +3,9 @@
 :after, :before {--tw-content: ""}
 html {-webkit-text-size-adjust: 100%;font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;line-height: 1.5;-moz-tab-size: 4;-o-tab-size: 4;tab-size: 4}
 body {line-height: inherit;margin: 0}
+main section {margin: auto 20px; color: #ccc}
+.site-title{color: #eee}
+main section p {padding-bottom: 15px}
 hr {border-top-width: 1px;color: inherit;height: 0}
 abbr:where([title]) {-webkit-text-decoration: underline dotted;text-decoration: underline dotted}
 h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit}
