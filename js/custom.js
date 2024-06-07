@@ -107,7 +107,7 @@ function searchGame() {
                     <div class="pic">
                     <figure class="ratio ratio-1">
                         <a rel="noindex nofollow" title="${item.title}" onclick="showGame('${item.slug}')">
-                        <img src="https://slopegameio.github.io/${item.slug}/logo.png" class="small-thumb" alt="${item.title}">
+                        <img src="https://slope-3d.com/${item.slug}/logo.png" class="small-thumb" alt="${item.title}">
                         </a>
                     </figure>
                     </div>
