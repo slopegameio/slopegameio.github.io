@@ -24,4 +24,4 @@ Slope Game – two simple words for a deceptively simple game that's become an o
 
 **Ready to Roll?**
 =====
-Head over to [Slope Game](https://slopegameio.github.io/) and begin your descent into addictive 3D running action!
+Head over to [Slope Game](https://slope-3d.com/) and begin your descent into addictive 3D running action!
